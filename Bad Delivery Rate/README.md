@@ -66,4 +66,4 @@ P.S. If you've read the Ace the Data Science Interview and liked it, consider wr
 |--|
 |75.00|
 
-Order 727424 es excluded as the order is made after the first 14 days upon signing up. There are 4 orders, however, there are only 3 orders with bad experiences as one of the orders 253613 is completed successfully. So, 3 out of 4 orders are 75% bad experience.
+⭐️ Order 727424 es excluded as the order is made after the first 14 days upon signing up. There are 4 orders, however, there are only 3 orders with bad experiences as one of the orders 253613 is completed successfully. So, 3 out of 4 orders are 75% bad experience.
