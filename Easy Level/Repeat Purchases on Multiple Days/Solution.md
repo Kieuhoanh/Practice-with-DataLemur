@@ -16,4 +16,5 @@ FROM solution
 
 ## Answer
 |users_num|
+|----|
 |1|
