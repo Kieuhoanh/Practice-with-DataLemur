@@ -19,10 +19,10 @@ Write a query to calculate the return on ad spend (ROAS) for each advertiser acr
 |campaign_id|	spend|	revenue|	advertiser_idç
 |------|------|----|----|
 |1|	5000	|7500|	3|
-|2|	1000	|900	1|
-|3|	3000	|12000	2|
-|4	|500|	2000	4|
-|5|	100	|400	4|
+|2|	1000	|900|	1|
+|3|	3000	|12000|	2|
+|4	|500|	2000|	4|
+|5|	100	|400|	4|
 
 **Example Output:**
 
